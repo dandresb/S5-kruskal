@@ -1,0 +1,25 @@
+Tratamiento;Hongo;Pmortalidad
+T1;Beauveria;14
+T1;Beauveria;14
+T1;Beauveria;0
+T1;Beauveria;0
+T1;Beauveria;14
+T2;Beauveria;0
+T2;Beauveria;29
+T2;Beauveria;14
+T2;Beauveria;0
+T2;Beauveria;14
+T3;Lecanicillium;0
+T3;Lecanicillium;14
+T3;Lecanicillium;0
+T3;Lecanicillium;14
+T3;Lecanicillium;29
+T4;Lecanicillium;29
+T4;Lecanicillium;29
+T4;Lecanicillium;14
+T4;Lecanicillium;29
+T4;Lecanicillium;29
+C;Control ;2
+C;Control ;0
+C;Control ;2
+C;Control ;0
